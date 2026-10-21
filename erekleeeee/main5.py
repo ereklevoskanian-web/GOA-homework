@@ -1,5 +1,5 @@
-x = input("what's is x?")
-y = input("what's is y?")
+x = input("what is x ?")
+y = input("what is y ?")
 if x > y or x < y:
     print ("x is not equal to y")
 else: 

@@ -1,0 +1,4 @@
+me mom Birthday dey = 14 September 
+me mom Birthday year = 1987
+me Father Birthday dey = 23
+me Father Birthday year = 1987
