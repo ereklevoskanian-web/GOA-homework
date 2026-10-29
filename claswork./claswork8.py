@@ -1,0 +1,6 @@
+name = input("how old are you?")
+cvladi1 = input("what's is your name?")
+cvladi2 = input("what's is your username?")
+print(name)
+print(cvladi1)
+print(cvladi2)
