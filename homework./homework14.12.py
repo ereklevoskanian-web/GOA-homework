@@ -1,0 +1,5 @@
+name = input ("What is your name? ")
+name1 = input ("What is your fav sport? ")
+name2 = input ("What is your fav sportmen? ")
+name3 = input ("What is your fav team? ")
+print("Your name is " + name + ", your fav sport is " + name1 + ", your fav sportmen is " + name2 + ", and your fav team is " + name3 + "." )

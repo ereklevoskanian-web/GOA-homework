@@ -1,0 +1,7 @@
+name1 = input("what is your name? ")
+name2 = input("what is your username? ")
+name3 = input("what is your age? ")
+name4 = input("whats is your hobby? ")
+name5 = input("what is your favorite sport? ")
+name6 = input("what is your favorite food? ")
+print("Hello, " + name1 + "! Your username is " + name2 + ", you are " + name3 + " years old, your hobby is " + name4 + ", your favorite sport is " + name5 + ", and your favorite food is " + name6 + ".")

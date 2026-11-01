@@ -1,0 +1,5 @@
+name = input("Name of the birthday host? ")
+name1 = input(" Date of birth? ")
+name2 = input("What time is it? ")
+name3 = input("What is the location of the birthday party? ")
+print("The birthday host is " + name + ", the date of birth is " + name1 + ", the time is " + name2 + ", and the location of the birthday party is" + name3 + "." + "I invite you to the birthday party.")

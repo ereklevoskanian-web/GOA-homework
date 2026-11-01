@@ -1,0 +1,8 @@
+name = input ("What is your name? ")
+name1 = input ("What is your age? ")
+name2 = input("What is your school name? ")
+name3 = input("What grade are you in? ")
+print(name)
+print(name1)
+print(name2)
+print(name3)
