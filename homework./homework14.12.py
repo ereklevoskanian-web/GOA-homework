@@ -1,3 +1,9 @@
+#მომხმარებელს შეაყვანინეთ:
+#სახელი;
+#საყვარელი სპორტი;
+#საყვარელი სპორტსმენი;
+#საყვარელი გუნდი.
+
 name = input ("What is your name? ")
 name1 = input ("What is your fav sport? ")
 name2 = input ("What is your fav sportmen? ")

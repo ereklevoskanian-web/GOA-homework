@@ -1,3 +1,9 @@
+#შეეკითხეთ მომხმარებელს კომპიუტერის:
+#ბრენდი;
+#მოდელი;
+#ფერი.
+#გამოიტანეთ მიღებული მონაცემები ერთ ტექსტში.
+
 name = input("whats is your computer brend?")
 name1 = input("whats is your computer model?")
 name2 = input("whats is your computer color?")

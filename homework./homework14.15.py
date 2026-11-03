@@ -1,3 +1,9 @@
+#შეეკითხეთ მომხმარებელს:
+#სახელი;
+#სასურველი პროფესია;
+#სასურველი ქვეყანა, სადაც მომავალში იცხოვრებდა;
+#ოცნება.
+
 name = input ("What is your name? ")
 name1 = input ("Desired Profession? ")
 name2 = input ("Which country would you live in in the future?")

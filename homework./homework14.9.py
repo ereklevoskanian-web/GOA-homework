@@ -1,3 +1,8 @@
+#მომხმარებელს შეაყვანინეთ:
+#ქვეყანა;
+#ქალაქი;
+#სასტუმროს სახელი.
+
 name = input("What is the your country?")
 name1 = input("What is the your city?")
 name2 = input("What is the your hotel ?")

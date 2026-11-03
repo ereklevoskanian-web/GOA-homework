@@ -1,3 +1,5 @@
+#შეეკითხეთ მომხმარებელს დაბადების დღის მასპინძლის სახელი, თარიღი, დრო და მისამართი. შექმენით მოსაწვევის #ტექსტი.
+
 name = input("Name of the birthday host? ")
 name1 = input(" Date of birth? ")
 name2 = input("What time is it? ")

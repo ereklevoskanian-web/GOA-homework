@@ -1,3 +1,5 @@
+#შეეკითხეთ მომხმარებელს შინაური ცხოველის სახელი, სახეობა და ასაკი. მიღებული ინფორმაცია გამოიტანეთ ეკრანზე.
+
 name = input("What is the pet's name?")
 name1 = input("What is the pet's type?")
 name2 = input("What is the pet's age?")

@@ -1,3 +1,9 @@
+#შეეკითხეთ მომხმარებელს:
+#სახელი;
+#ასაკი;
+#სკოლა;
+#კლასი.
+
 name = input ("What is your name? ")
 name1 = input ("What is your age? ")
 name2 = input("What is your school name? ")
