@@ -14,4 +14,4 @@ time = input ("What time do you want? ")
 tickets = input ("How many ticket do you want?")
 ticket_price = 15
 total =  int(ticket_price * tickets)
-print ("your want " + film, "You want to, at this moment " + time, "You want this many tickets" + tickets, "total" + int(total), "$" )
+print ("The total cost for " + tickets + " tickets to the " + film + " at " + time + " is $" + str(total))
