@@ -1,0 +1,5 @@
+num1 = input ("what is your nam? ")
+num2 = input ("what is your nam? ")
+num3 = input ("what is your nam? ")
+num4 = input ("what is your nam? ")
+print ((int(num1) + int(num2) + int(num3) + int(num4)) / 4)

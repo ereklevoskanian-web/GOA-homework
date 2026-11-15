@@ -1,6 +1,6 @@
-# stripi, rodesac gviweria ori sityva orives didi asoti dawers, magalitad erekle voskaniani printsi daiwereba Erekle Voskaniani.
+# title. iwyebs orive sityvas didi asoti
 
 
 name = input ("what is your name? ")
-name = name.strip()
+name = name.title()
 print (f"me name is {name}")

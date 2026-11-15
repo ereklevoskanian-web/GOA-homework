@@ -5,4 +5,4 @@ x = 10
 y = "10"
 print (type (x))
 print (type (y))
-# ertmanetisgan imitom gansxvavdeba rom erti aris integer da meore stringi radgan erts aqvs "" meores ara
+# ertmanetisgan imitom gansxvavdeba rom erti aris integer da meore stringi radgan erts aqvs "" meores ara.
