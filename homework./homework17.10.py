@@ -1,3 +1,6 @@
+# შეაყვანინე მომხმარებელს სახელი, ასაკი და საყვარელი ფილმი. გამოიტანე ერთი წინადადება ყველა მონაცემით.
+
+
 name = input ("what is your name? ")
 age = input ("what is your age? ")
 film = input ("what is your fav film? ")

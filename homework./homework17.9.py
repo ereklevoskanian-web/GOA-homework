@@ -1,3 +1,7 @@
+# მომხმარებელს შეაყვანინე წიგნის ფასი, წიგნების რაოდენობა და მომხმარებლის ხელთ არსებული თანხა. გამოიტანე:
+# - წიგნების სრული ღირებულება;
+# - რამდენი თანხა დარჩება შეძენის შემდეგ.
+
 book_price = float(input("Enter the price of one book: "))
 book_count = int(input("Enter the number of books: "))
 money = float(input("Enter the amount of money you have: "))

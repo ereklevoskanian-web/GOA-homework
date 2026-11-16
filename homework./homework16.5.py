@@ -1,5 +1,5 @@
 # შექმენით ცვლადი name მნიშვნელობით "Giorgi" და დაბეჭდეთ მისი ტიპი.
 
 
-name = "giotgi"
+name = "giorgi"
 print (type(name))
